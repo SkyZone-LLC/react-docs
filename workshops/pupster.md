@@ -36,7 +36,7 @@ In this activity we will work to create an entire React application from scratch
   ```
 
 - Open [https://pupster.netlify.com/](https://pupster.netlify.com/) in your web browser and take a few moments to study the example application. You will be basing your Pupster app off of this example.
-- In case if link is broken. Please let us know, so we can fix it.
+- In case if the link is broken. Please let us know, so we can fix it.
 
   - This example contains 3 routes:
 
@@ -82,4 +82,4 @@ In this activity we will work to create an entire React application from scratch
 
 # Feedback
 
-Do you have feedback that you want to share ? Slack us directly or in general channels.
+Do you have feedback that you want to share ? Slack us directly.

@@ -27,6 +27,8 @@ Having an active and healthy commit history on GitHub is important for your futu
 
 6. Once the user's score is reset after an incorrect guess, the game should **restart**.
 
+7. Add test folder and write couple of test suites for your app.
+
 - - -
 
 #### Hints
